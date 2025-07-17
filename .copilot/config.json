@@ -1,0 +1,5 @@
+{
+  "suggestionBehavior": "aggressive",
+  "preferredLanguages": ["javascript"],
+  "excludePatterns": ["node_modules/*", "dist/*"]
+}
